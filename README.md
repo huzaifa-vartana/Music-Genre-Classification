@@ -1,4 +1,4 @@
 # Music-Genre-Classification
 A CNN music genre classifier deployed using Flask
 
-The model is trained on gtzan dataset and it contains all the data preprocessing.
+A CNN classifier trained on GTZAN dataset. The project contains all the data preprocessing, prediction file. The model has been deployed using Flask. 
